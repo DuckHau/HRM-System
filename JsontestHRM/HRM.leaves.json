@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "66f838b2409dc68289456cc3"
+  },
+  "employeeId": {
+    "$oid": "66f7f382a3db3c96ad9c7a51"
+  },
+  "leaveType": "annual",
+  "startDate": {
+    "$date": "2024-10-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2024-10-05T00:00:00.000Z"
+  },
+  "reason": "Nghỉ phép năm",
+  "status": "pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f8522300fed1a6de4b85f0"
+  },
+  "employeeId": {
+    "$oid": "66f7f382a3db3c96ad9c7a51"
+  },
+  "leaveType": "sick",
+  "startDate": {
+    "$date": "2003-02-02T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2003-02-02T00:00:00.000Z"
+  },
+  "reason": "benh",
+  "status": "pending",
+  "__v": 0
+}]

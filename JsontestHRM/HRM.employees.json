@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "66f540f74878951fe9f43f3e"
+  },
+  "name": "Nguyễn Văn A",
+  "email": "nguyenvana@example.com",
+  "phone": "0901234567",
+  "position": "Developer",
+  "department": "Engineering",
+  "dateOfBirth": {
+    "$date": "2003-02-02T00:00:00.000Z"
+  },
+  "startDate": {
+    "$date": "2023-02-22T00:00:00.000Z"
+  },
+  "address": "123 Đường ABC, Quận 1, TP.HCM",
+  "status": "inactive",
+  "password": "123",
+  "salary": 50000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f59131f8f18e2326b592d7"
+  },
+  "name": "Cho Quang",
+  "email": "rori@gmail.com",
+  "phone": "0901234567",
+  "position": "Developer",
+  "department": "Engineering",
+  "dateOfBirth": {
+    "$date": "2003-11-01T00:00:00.000Z"
+  },
+  "startDate": {
+    "$date": "2003-11-11T00:00:00.000Z"
+  },
+  "address": "123 Đường ABC, Quận 1, TP.HCM",
+  "status": "active",
+  "password": "Choquang",
+  "salary": 11111,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f66ef7eb6b2b2d0ede62a2"
+  },
+  "name": "Trien",
+  "email": "trien@gmail.com",
+  "phone": "0901234567",
+  "position": "Developer",
+  "department": "Engineering",
+  "dateOfBirth": {
+    "$date": "2025-01-12T00:00:00.000Z"
+  },
+  "startDate": {
+    "$date": "2045-02-22T00:00:00.000Z"
+  },
+  "address": "123 Đường ABC, Quận 1, TP.HCM",
+  "status": "active",
+  "password": "trien",
+  "salary": 111111,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f6e08673ab06f13bd3cdff"
+  },
+  "name": "Hau",
+  "email": "phqtquin3@gmail.com",
+  "phone": "0909090909",
+  "position": "Captain",
+  "department": "Engineering",
+  "dateOfBirth": {
+    "$date": "2003-01-01T00:00:00.000Z"
+  },
+  "startDate": {
+    "$date": "2003-02-02T00:00:00.000Z"
+  },
+  "address": "quan 8",
+  "status": "active",
+  "password": "123",
+  "salary": 1111111,
+  "role": "User",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f7cd42af74f208dfe24487"
+  },
+  "name": "Dat",
+  "email": "dat@gmail.com",
+  "phone": "0909090909",
+  "position": "Captain",
+  "department": "Engineering",
+  "dateOfBirth": {
+    "$date": "2011-11-11T00:00:00.000Z"
+  },
+  "startDate": {
+    "$date": "2024-11-11T00:00:00.000Z"
+  },
+  "address": "quan 8",
+  "status": "probation",
+  "password": "$2a$10$fIwz.wYDvzHUx2Ks4af0.OgLn0a7obheSeXwjpyImfmuIoWvv6csi",
+  "salary": 11111,
+  "role": "User",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f7ef7da3db3c96ad9c7a37"
+  },
+  "name": "Duc Hau",
+  "email": "admin@gmail.com",
+  "phone": "0923233026",
+  "position": "Ceo",
+  "department": "Engineering",
+  "dateOfBirth": {
+    "$date": "2003-10-10T00:00:00.000Z"
+  },
+  "startDate": {
+    "$date": "2003-02-02T00:00:00.000Z"
+  },
+  "address": "Quan 8",
+  "status": "active",
+  "password": "$2a$10$lScqmG651OMrpeF1NIeFfOGOtFL0jFyQROiRUdXhiW0/7CiTukYaK",
+  "salary": 111111,
+  "role": "Admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f7f382a3db3c96ad9c7a51"
+  },
+  "name": "Quang",
+  "email": "tuan@gmail.com",
+  "phone": "0909090909",
+  "position": "Medical",
+  "department": "Medical",
+  "dateOfBirth": {
+    "$date": "2003-01-01T00:00:00.000Z"
+  },
+  "startDate": {
+    "$date": "2003-02-02T00:00:00.000Z"
+  },
+  "address": "quan nha be",
+  "status": "active",
+  "password": "$2a$10$bmlQyPIl4zJAnzq8NG/POuZagaHZBVSpMZ4i9E1PtIB8zapsmUIYm",
+  "salary": 1111,
+  "role": "User",
+  "__v": 0
+}]
